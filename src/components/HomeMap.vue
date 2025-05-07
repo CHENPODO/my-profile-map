@@ -1,5 +1,5 @@
 <script setup>
-import mapImage from "@/assets/HomeMap.jpg"
+import mapImage from "@/assets/HomeMap.png"
 import CatImage from "@/assets/logo.png"
 
 import { ref, onMounted } from "vue"
